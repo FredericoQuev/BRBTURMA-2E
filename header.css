@@ -1,0 +1,9 @@
+.cabecalho_menu-hunburguer{
+    width: 24;
+    height: 24;
+    background-image: 
+    url(../Img/Menu.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+}
